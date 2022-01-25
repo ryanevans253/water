@@ -1,4 +1,4 @@
-# water
-Python and Raspberry Pi Plant Watering Automation
 
-<h2>Automated moisture tracing system for house plants.</h2>
+<h2>Automated moisture tracking system for house plants.
+Front end dashboard with React.js is in progress.
+</h2>
